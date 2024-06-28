@@ -1,0 +1,20 @@
+@import "../../assets/style/variables";
+.active {
+  color: $main-color !important;
+}
+.header {
+  .name-company {
+  }
+  .logo {
+    .icon-logo {
+      color: $main-color;
+    }
+  }
+
+  ul.nav {
+    a {
+      color: #5e5e5ecc;
+      font-weight: 500;
+    }
+  }
+}
